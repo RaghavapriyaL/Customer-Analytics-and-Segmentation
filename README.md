@@ -174,3 +174,15 @@ KMeans(
     random_state=42,
     n_init=10
 )
+
+## 👩‍💻 Author
+
+**Raghavapriya L**
+
+Aspiring Data Analyst & Machine Learning Enthusiast
+
+GitHub: *https://github.com/RaghavapriyaL*
+
+---
+
+⭐ If you found this project useful or interesting, feel free to star this repository!
