@@ -174,7 +174,7 @@ KMeans(
     random_state=42,
     n_init=10
 )
-
+```
 ### 👩‍💻 Author
 
 **Raghavapriya L**
